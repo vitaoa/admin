@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "664b0dc2b70935a19898471a",
+    "subjectName": "中国历史",
+    "subjectType": "历史学",
+    "createdAt": "2024-05-20T08:45:54.671Z",
+    "updatedAt": "2024-05-20T08:45:54.671Z",
+    "subjectID": 100000008
+  },
+  {
+    "_id": "664b0d9ab70935a198984715",
+    "subjectName": "语文",
+    "subjectType": "文学",
+    "createdAt": "2024-05-20T08:45:14.912Z",
+    "updatedAt": "2024-05-20T08:45:14.912Z",
+    "subjectID": 100000007
+  },
+  {
+    "_id": "664b0d8fb70935a198984710",
+    "subjectName": "数学",
+    "subjectType": "理学",
+    "createdAt": "2024-05-20T08:45:03.871Z",
+    "updatedAt": "2024-05-20T08:45:03.871Z",
+    "subjectID": 100000006
+  },
+  {
+    "_id": "664a09d3a97bd15bfeffddd5",
+    "subjectName": "英语",
+    "subjectType": "文学",
+    "createdAt": "2024-05-19T14:16:51.931Z",
+    "updatedAt": "2024-05-20T08:44:57.662Z",
+    "subjectID": 100000005
+  },
+  {
+    "_id": "664a09caa97bd15bfeffddce",
+    "subjectName": "python语言",
+    "subjectType": "工学",
+    "createdAt": "2024-05-19T14:16:42.493Z",
+    "updatedAt": "2024-05-20T08:58:38.871Z",
+    "subjectID": 100000004
+  }
+]

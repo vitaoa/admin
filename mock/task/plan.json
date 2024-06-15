@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "666d714f9023571b17ab923b",
+    "planTask": "阅读打卡",
+    "planTimeArea": [
+      "2024-06-15T00:00:00.000Z",
+      "2024-06-15T14:00:00.000Z"
+    ],
+    "subjectName": "语文",
+    "createdAt": "2024-06-15T10:47:43.151Z",
+    "updatedAt": "2024-06-15T10:55:12.108Z",
+    "taskPlanID": 100160000000002,
+    "gradeName": "一年级下册",
+    "planStatus": "未完成",
+    "taskType": "家庭作业"
+  },
+  {
+    "_id": "666d6f2f10925ba470cc43dd",
+    "planTask": "阅读打卡",
+    "userName": "mm",
+    "planTimeArea": [
+      "2024-06-15T00:00:00.000Z",
+      "2024-06-15T14:00:00.000Z"
+    ],
+    "planStatus": "未完成",
+    "taskType": "家庭作业",
+    "subjectName": "英语",
+    "gradeName": "一年级下册",
+    "createdAt": "2024-06-15T10:38:39.682Z",
+    "updatedAt": "2024-06-15T10:38:39.682Z",
+    "taskPlanID": 100160000000001
+  },
+  {
+    "_id": "665dc5cd8267852e9749b7df",
+    "planTask": "阅读打卡",
+    "userName": "",
+    "planTimeArea": [
+      "2024-06-03T00:00:00.000Z",
+      "2024-06-03T14:00:00.000Z"
+    ],
+    "planStatus": "未完成",
+    "planDesc": "",
+    "taskType": "家庭作业",
+    "subjectName": "语文",
+    "gradeName": "一年级下册",
+    "createdAt": "2024-06-03T13:31:57.377Z",
+    "updatedAt": "2024-06-03T13:31:57.377Z",
+    "taskPlanID": 100160000000000
+  }
+]

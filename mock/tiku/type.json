@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "666be414219a6adb591fad47",
+    "subjectType": "金融",
+    "createdAt": "2024-06-14T06:32:52.162Z",
+    "updatedAt": "2024-06-14T06:33:49.882Z",
+    "typeID": 1006
+  },
+  {
+    "_id": "666bd81b219a6adb591fad03",
+    "subjectType": "人工智能",
+    "createdAt": "2024-06-14T05:41:47.255Z",
+    "updatedAt": "2024-06-15T09:49:52.460Z",
+    "typeID": 1005
+  },
+  {
+    "_id": "666bc4485480a11fb6c02ada",
+    "subjectType": "科学",
+    "createdAt": "2024-06-14T04:17:12.130Z",
+    "updatedAt": "2024-06-14T04:17:12.130Z",
+    "typeID": 1004
+  },
+  {
+    "_id": "664b0d0eb70935a198984701",
+    "subjectType": "历史学",
+    "createdAt": "2024-05-20T08:42:54.945Z",
+    "updatedAt": "2024-05-20T08:42:54.945Z",
+    "typeID": 1003
+  },
+  {
+    "_id": "664b07befa4e8423c316cc03",
+    "subjectType": "理学",
+    "createdAt": "2024-05-20T08:20:14.376Z",
+    "updatedAt": "2024-05-20T08:42:47.264Z",
+    "typeID": 1002
+  },
+  {
+    "_id": "664a065b0f2c0cacd0c41f46",
+    "subjectType": "文学",
+    "createdAt": "2024-05-19T14:02:03.833Z",
+    "updatedAt": "2024-05-20T08:42:35.280Z",
+    "typeID": 1001
+  },
+  {
+    "_id": "664a06540f2c0cacd0c41f40",
+    "subjectType": "工学",
+    "createdAt": "2024-05-19T14:01:56.556Z",
+    "updatedAt": "2024-05-20T08:42:25.283Z",
+    "typeID": 1000
+  }
+]

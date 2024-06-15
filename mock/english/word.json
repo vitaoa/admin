@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "664b0293a5f29cbc27e61a9a",
+    "wordName": "hello",
+    "wordTranslate": "你好",
+    "unitName": "第一单元",
+    "gradeName": "一年级上册",
+    "createdAt": "2024-05-20T07:58:11.742Z",
+    "updatedAt": "2024-05-20T11:08:12.120Z",
+    "wordID": 50000000001
+  },
+  {
+    "_id": "664abb7d4ccdbddc89bf56d7",
+    "wordName": "good",
+    "wordTranslate": "很好！非常好！",
+    "unitName": "第一单元",
+    "gradeName": "一年级上册",
+    "createdAt": "2024-05-20T02:54:53.895Z",
+    "updatedAt": "2024-05-20T11:08:26.879Z",
+    "wordID": 50000000000
+  }
+]

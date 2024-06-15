@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "6649cec9f650fc1e061de0d6",
+    "gradeName": "七年级上册",
+    "createdAt": "2024-05-19T10:04:57.986Z",
+    "updatedAt": "2024-05-19T10:04:57.986Z",
+    "gradeID": 112
+  },
+  {
+    "_id": "6649cea8f650fc1e061de0cf",
+    "gradeName": "六年级下册",
+    "createdAt": "2024-05-19T10:04:24.517Z",
+    "updatedAt": "2024-05-20T08:46:31.553Z",
+    "gradeID": 111
+  },
+  {
+    "_id": "6649cea6f650fc1e061de0ca",
+    "gradeName": "六年级上册",
+    "createdAt": "2024-05-19T10:04:22.429Z",
+    "updatedAt": "2024-05-19T10:04:22.429Z",
+    "gradeID": 110
+  },
+  {
+    "_id": "6649ce95f650fc1e061de0c5",
+    "gradeName": "五年级下册",
+    "createdAt": "2024-05-19T10:04:05.736Z",
+    "updatedAt": "2024-05-19T10:04:05.736Z",
+    "gradeID": 109
+  },
+  {
+    "_id": "6649ce91f650fc1e061de0c0",
+    "gradeName": "五年级上册",
+    "createdAt": "2024-05-19T10:04:01.848Z",
+    "updatedAt": "2024-05-19T10:04:01.848Z",
+    "gradeID": 108
+  },
+  {
+    "_id": "6649ce8bf650fc1e061de0bb",
+    "gradeName": "四年级下册",
+    "createdAt": "2024-05-19T10:03:55.605Z",
+    "updatedAt": "2024-05-19T10:03:55.605Z",
+    "gradeID": 107
+  },
+  {
+    "_id": "6649ce86f650fc1e061de0b6",
+    "gradeName": "四年级上册",
+    "createdAt": "2024-05-19T10:03:50.710Z",
+    "updatedAt": "2024-05-19T10:03:50.710Z",
+    "gradeID": 106
+  },
+  {
+    "_id": "6649ce68f650fc1e061de0b0",
+    "gradeName": "三年级下册",
+    "createdAt": "2024-05-19T10:03:20.127Z",
+    "updatedAt": "2024-05-19T10:03:20.127Z",
+    "gradeID": 105
+  },
+  {
+    "_id": "6649ce64f650fc1e061de0ab",
+    "gradeName": "三年级上册",
+    "createdAt": "2024-05-19T10:03:16.593Z",
+    "updatedAt": "2024-05-19T10:03:16.593Z",
+    "gradeID": 104
+  },
+  {
+    "_id": "6649ce5ef650fc1e061de0a6",
+    "gradeName": "二年级下册",
+    "createdAt": "2024-05-19T10:03:10.219Z",
+    "updatedAt": "2024-05-19T10:03:10.219Z",
+    "gradeID": 103
+  },
+  {
+    "_id": "6649ce5af650fc1e061de0a1",
+    "gradeName": "二年级上册",
+    "createdAt": "2024-05-19T10:03:06.664Z",
+    "updatedAt": "2024-05-19T10:03:06.664Z",
+    "gradeID": 102
+  },
+  {
+    "_id": "6649ce53f650fc1e061de09c",
+    "gradeName": "一年级下册",
+    "createdAt": "2024-05-19T10:02:59.564Z",
+    "updatedAt": "2024-05-19T10:02:59.564Z",
+    "gradeID": 101
+  },
+  {
+    "_id": "6649ce4bf650fc1e061de098",
+    "gradeName": "一年级上册",
+    "createdAt": "2024-05-19T10:02:51.420Z",
+    "updatedAt": "2024-05-19T10:06:19.016Z",
+    "gradeID": 100
+  }
+]
